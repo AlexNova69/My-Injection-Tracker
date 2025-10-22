@@ -1,0 +1,5 @@
+{
+  "name": "Injection Tracker",
+  "description": "An application for patients to track their injections, dosages, weight, and side effects. It helps visualize the effectiveness and side effects of therapy with charts and a detailed history",
+  "requestFramePermissions": []
+}
